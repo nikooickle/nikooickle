@@ -1,6 +1,5 @@
 ## Hi I'm Niko 👋
 
-<!--
 # 💫 About Me:
 - 🔭 Studied Mathematics at Seton Hall, Texas Tech, and SNHU. Received Bachelor's Degree<br>- 🌱 I’m currently learning data science and machine learning.<br>- 👯 I’m looking to get into sports analytics and data science in sports.<br>
 
@@ -19,4 +18,3 @@
 [![](https://visitcount.itsvg.in/api?id=nikooickle&icon=0&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
--->

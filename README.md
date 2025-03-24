@@ -1,7 +1,9 @@
 ## Hi I'm Niko 👋
 
 # 💫 About Me:
-- 🔭 Studied Mathematics at Seton Hall, Texas Tech, and SNHU. Received Bachelor's Degree<br>- 🌱 I’m currently learning data science and machine learning.<br>- 👯 I’m looking to get into sports analytics and data science in sports.<br>
+- 🔭 Studied Mathematics at Seton Hall, Texas Tech, and SNHU. Received Bachelor's Degree<br>
+- 🌱 I’m currently learning data science and machine learning.<br>
+- 👯 I’m looking to get into sports analytics and data science in sports.<br>
 
 
 ## 🌐 Socials:
